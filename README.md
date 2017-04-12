@@ -42,5 +42,5 @@ new Vue({
 will be fired and the element will not be moved.
 
 ## Credits
-Based on https://github.com/rhyzx/vue-transfer-dom
+Based on https://github.com/rhyzx/vue-transfer-dom for Vue 1.x
 
