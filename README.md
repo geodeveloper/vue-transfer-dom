@@ -40,3 +40,7 @@ new Vue({
 
 **Note:** If appending or prepending to a non-existant target element, a console warning 
 will be fired and the element will not be moved.
+
+## Credits
+Based on https://github.com/rhyzx/vue-transfer-dom
+
