@@ -1,11 +1,36 @@
 {
   "name": "vue-transfer-dom",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Transfer DOM to another place",
   "main": "index.js",
+  "keywords": [
+    "Vue.js",
+    "vue",
+    "vue 2.x",
+    "transfer-dom",
+    "directive" 
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "rhyzix@gmail.com",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmorehouse/vue-transfer-dom.git"
+  },
+  "author": "Troy Morehouse",
+  "homepage": "https://github.com/tmorehouse/vue-transfer-dom#readme",
+  "contributors": [
+    { 
+      "name": "Troy Morehouse",
+      "url": "https://github.com/tmorehouse"
+    },
+    { 
+      "name": "Bin Xin",
+      "url": "https://github.com/rhyzx"
+    }
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": ">=2.2.0"
+  }
 }
