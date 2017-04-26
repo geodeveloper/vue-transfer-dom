@@ -27,6 +27,6 @@ Vue.directive(name, {
         'v-' + name + ' target element id "' + bindings.arg + '" not found.'
       )
     }
-})
+}})
 
 })
