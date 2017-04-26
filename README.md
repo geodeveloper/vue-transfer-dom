@@ -3,6 +3,8 @@
 
 Transfer DOM to another place (eg. `<body>`).
 
+**Caveat: This directive has not fuly tested yet.**
+
 Useful in some situations such as z-index management, see discussion [here](https://github.com/vuejs/vue/issues/2130).
 
 ## Installation
